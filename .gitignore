@@ -1,0 +1,10 @@
+etc/*
+*.class
+*.txt
+*.log
+.vscode/*
+src/.vscode/*
+src/__pycache__/*
+src/*.txt
+src/*.log
+run_aakash.sh
